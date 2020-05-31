@@ -7,7 +7,7 @@ Currently available:
 
 | Component            | Notes. |
 |----------------------|--------|
-|UDB UART for PSoC6    |The UDB UART for PSoC6 does currently only work with an external clock. The clock frequency has to be 8 times the baudrate.|
+|UDB UART for PSoC6    |The UDB UART for PSoC6 currently only works with an external clock. Use an external clock with 8 times the desired baudrate.|
 |UDB I2C for PSoC6     |        |
 |UDB PWM for PSoC6     |        |
 
