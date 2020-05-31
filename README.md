@@ -1,5 +1,5 @@
-# UDB-Components
-PSoC6 UDB Components
+# PSoC6 UDB-Components
+UDB Components for PSoC6
 
 Not tested thoroughly. Use at own risk!
 
