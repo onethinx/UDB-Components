@@ -17,14 +17,14 @@ Currently available:
 The components can be either imported all together as a dependency or per component itself.
 
 ## Method 1: Adding the project dependency
-Download and unzip the UDB_Components.cylib.zip
-Add the dependency reference to the cyprj project file:
+- [Download and unzip the UDB_Components.cylib.zip](https://github.com/onethinx/UDB-Components/raw/master/UDB_Components.cylib.zip)
+- Add the dependency reference to the cyprj project file:
 ![Creator_Import_Component](https://github.com/onethinx/Readme_assets/blob/main/UDB-import-project.png?raw=true)
 
 ## Method 2: Adding a single component
-Import the component into your design.
+- Import the component into your design.
 ![Creator_Import_Component](https://github.com/onethinx/Readme_assets/blob/main/UDB-import-component.png?raw=true)
-
+- Select the component (.cycomp) and click OK.
 
 ## Usage
 Use them from the Onethinx tab.<br>
