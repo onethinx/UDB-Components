@@ -13,15 +13,15 @@ Currently available:
 |UDB SPI Master for PSoC6  |        |
 |UDB Timer PSoC6           |        |
 
-# Usage
+# Importing the components
 The components can be either imported all together as a dependency or per component itself.
 
-## Adding the project dependency
+## Method 1: Adding the project dependency
 Download and unzip the UDB_Components.cylib.zip
 Add the dependency reference to the cyprj project file:
 ![Creator_Import_Component](https://github.com/onethinx/Readme_assets/blob/main/UDB-import-project.png?raw=true)
 
-## Adding a component
+## Method 2: Adding a single component
 Import the component into your design.
 ![Creator_Import_Component](https://github.com/onethinx/Readme_assets/blob/main/UDB-import-component.png?raw=true)
 
